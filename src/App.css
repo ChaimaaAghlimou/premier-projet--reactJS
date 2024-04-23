@@ -1,0 +1,22 @@
+.app-container {
+  /* Styles pour le conteneur principal */
+  /* Par exemple : */
+  margin: 20px;
+}
+
+.post-container {
+  /* Styles pour chaque élément post */
+  /* Par exemple : */
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.post-image {
+  /* Styles pour les images */
+  /* Par exemple : */
+  width: 100px;
+  height: 100px;
+  object-fit: cover; /* Pour ajuster la taille de l'image */
+}
