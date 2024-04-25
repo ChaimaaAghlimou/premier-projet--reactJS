@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-http://192.168.1.24:9000/api/project_badges/measure?project=projet_reactjs&metric=alert_status&token=sqb_943819ed5504d8d6e78e081e56b55356ca0d6a39
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
